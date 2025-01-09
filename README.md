@@ -37,6 +37,7 @@ The Knowledge Showdown application is built using the following technologies:
 - Score tracking
 - Leaderboards
 - User-friendly interface
+- Admin dashboard for managing quizzes, categories and users
 
 ## Installation
 
