@@ -87,4 +87,4 @@ We welcome contributions to the Knowledge Showdown project! If you would like to
 
 ## License
 
-This project is licensed under the MIT License. See the [license.txt](../LICENSE.txt) file for more details.
+This project is licensed under the MIT License. See the [LICENSE.txt](../LICENSE.txt) file for more details.
