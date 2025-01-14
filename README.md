@@ -11,6 +11,7 @@ We hope you enjoy exploring our project as much as we enjoyed building it!
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Check it Out](#check-it-out)
 - [Technologies](#technologies)
 - [Features](#features)
 - [Installation](#installation)
@@ -21,6 +22,10 @@ We hope you enjoy exploring our project as much as we enjoyed building it!
 ## Introduction
 
 Knowledge Showdown is an interactive quiz application designed to test and improve your knowledge on various topics. It provides a fun and engaging way to learn new things and challenge yourself.
+
+## Check it Out
+
+You can access the Knowledge Showdown application [here](http://226d123.e2.mars-hosting.com/).
 
 ## Technologies
 
